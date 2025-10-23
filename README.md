@@ -20,6 +20,7 @@
   - [Jewel](https://github.com/JetBrains/jewel/): IntelliJ New UI
   - [Miuix](https://github.com/miuix-kotlin-multiplatform/miuix): Components with Xiaomi HyperOS design style
   - [Compose Fluent](https://github.com/compose-fluent/compose-fluent-ui): Microsoft Fluent UI
+  - [Compose Unstyled](https://github.com/composablehorizons/compose-unstyled): The missing Design System layer for Compose UI
 
 ### Architecture
   - [Premo](https://github.com/dmdevgo/Premo): Implements presentation layer 
