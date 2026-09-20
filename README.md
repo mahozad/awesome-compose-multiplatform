@@ -10,15 +10,19 @@
 
 <br>
 
-### Composables/components/widgets
-  - [WavySlider](https://github.com/mahozad/wavy-slider): Squiggly slider like the one in Android 13
-  - [Reveal effect](https://github.com/svenjacobs/reveal): Coach mark and walkthrough for components
-  - [WebView](https://github.com/KevinnZou/compose-webview-multiplatform): Basic WebView functionality
-  - [peekaboo](https://github.com/onseok/peekaboo): Image picker
-  - [Epic Calendar](https://github.com/epicarchitect/epic-calendar): Displays calendars
-  - [Compose Sonner](https://github.com/dokar3/compose-sonner): Opinionated toast
-  - [ZoomImage](https://github.com/panpf/zoomimage): Zooming and interacting with images
-  - [Typist-CMP](https://github.com/zeeshanali-k/Typist-CMP): Animated text typing
+### Composables | components | widgets
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐240  | [WavySlider](https://github.com/mahozad/wavy-slider) | Squiggly slider like the one in Android 13 |
+| ⭐610  | [Reveal effect](https://github.com/svenjacobs/reveal) | Coach mark and walkthrough for components |
+| ⭐1000 | [WebView](https://github.com/KevinnZou/compose-webview-multiplatform) | Basic WebView functionality |
+| ⭐380  | [peekaboo](https://github.com/onseok/peekaboo) | Image picker |
+| ⭐130  | [Epic Calendar](https://github.com/epicarchitect/epic-calendar) | Displays calendars |
+| ⭐360  | [Compose Sonner](https://github.com/dokar3/compose-sonner) | Opinionated toast |
+| ⭐660  | [ZoomImage](https://github.com/panpf/zoomimage) | Zooming and interacting with images |
+| ⭐40   | [Typist-CMP](https://github.com/zeeshanali-k/Typist-CMP) | Animated text typing |
+
+<br>
 
 ### Themes/Designs/Look and feels
   - [Jewel](https://github.com/JetBrains/jewel/): IntelliJ New UI
