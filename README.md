@@ -42,23 +42,27 @@
 <br>
 
 ### Utilities
-  - [Comshot](https://github.com/mahozad/comshot): Capture screenshot of Composables and Views
-  - [Coil](https://github.com/coil-kt/coil): Image loading based on coroutines
-  - [haze](https://github.com/chrisbanes/haze): Glassmorphism blur modifier
-  - [Material motion compose](https://github.com/fornewid/material-motion-compose): Implements motion system in Material components
-  - [Material 3 Window size class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform): Implements Material3 windowing layout
-  - [Compose DND](https://github.com/MohamedRejeb/compose-dnd): Drag and drop functionality
-  - [MaterialKolor](https://github.com/jordond/MaterialKolor): Generates dynamic Material3 color schemes from a seed color
-  - [QRose](https://github.com/alexzhirkevich/qrose): Styled QR code generator
-  - [SVG to Compose](https://github.com/DevSrSouza/svg-to-compose): Makes vectors cross-platform
-  - [InsetsX](https://github.com/mori-atsushi/insetsx): Unified interface for handling WindowInsets
-  - [Drag Select Compose](https://github.com/jordond/drag-select-compose): Google Photos-style multi-selection
-  - [Kottie](https://github.com/ismai117/kottie): Render After Effects animations
-  - [Compottie](https://github.com/alexzhirkevich/compottie): Lottie animations
-  - [Orbital](https://github.com/skydoves/orbital): Implements animations such as shared-element transition 
-  - [MOKO resources](https://github.com/icerockdev/moko-resources): Common resources
-  - [Compose Settings](https://github.com/alorma/Compose-Settings): Common settings
-  - [KMPMedia](https://github.com/SolidKeyAB/kmpmedia): Render, clip & animate images, SVG and video into any shape (incl. free-form lasso), with interactive video playback — Android & iOS
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐40   | [Comshot](https://github.com/mahozad/comshot) | Capture screenshot of Composables and Views |
+| ⭐11900 | [Coil](https://github.com/coil-kt/coil) | Image loading based on coroutines |
+| ⭐2500 | [haze](https://github.com/chrisbanes/haze) | Glassmorphism blur modifier |
+| ⭐660  | [Material motion compose](https://github.com/fornewid/material-motion-compose) | Motion system in Material components |
+| ⭐360  | [Material 3 Window size class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) | Material3 windowing layout |
+| ⭐510  | [Compose DND](https://github.com/MohamedRejeb/compose-dnd) | Drag and drop functionality |
+| ⭐940  | [MaterialKolor](https://github.com/jordond/MaterialKolor) | Dynamic Material3 color schemes from a seed color |
+| ⭐530  | [QRose](https://github.com/alexzhirkevich/qrose) | Styled QR code generator |
+| ⭐470  | [SVG to Compose](https://github.com/DevSrSouza/svg-to-compose) | Makes vectors cross-platform |
+| ⭐230  | [InsetsX](https://github.com/mori-atsushi/insetsx) | Unified interface for handling WindowInsets |
+| ⭐240  | [Drag Select Compose](https://github.com/jordond/drag-select-compose) | Google Photos-style multi-selection |
+| ⭐300  | [Kottie](https://github.com/ismai117/kottie) | Render After Effects animations |
+| ⭐680  | [Compottie](https://github.com/alexzhirkevich/compottie) | Lottie animations |
+| ⭐1200 | [Orbital](https://github.com/skydoves/orbital) | Animations such as shared-element transition  |
+| ⭐1400 | [MOKO resources](https://github.com/icerockdev/moko-resources) | Common resources |
+| ⭐560  | [Compose Settings](https://github.com/alorma/Compose-Settings) | Common settings |
+| ⭐4    | [KMPMedia](https://github.com/SolidKeyAB/kmpmedia) | Media Processing |
+
+<br>
 
 ### Applications
   - [Cutcon](https://github.com/mahozad/cutcon): Media cutter, converter, viewer (video, audio, image)
