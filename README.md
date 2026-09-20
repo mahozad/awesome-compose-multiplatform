@@ -66,17 +66,22 @@
 <br>
 
 ### Applications
-  - [Cutcon](https://github.com/mahozad/cutcon): Media cutter, converter, viewer (video, audio, image)
-  - [AB Download Manager](https://github.com/amir1376/ab-download-manager): Manage and organize downloads
-  - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace): List of people in space and the position of the International Space Station
-  - [Gitnuro](https://github.com/JetpackDuba/Gitnuro): Git client
-  - [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP): Music player and explorer
-  - [SpMp](https://github.com/toasterofbread/spmp): A YouTube Music client
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐60   | [Cutcon](https://github.com/mahozad/cutcon) | Media cutter, converter, viewer (video, audio, image) |
+| ⭐18000 | [AB Download Manager](https://github.com/amir1376/ab-download-manager) | Manage and organize downloads |
+| ⭐3400 | [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) | List of people in space and the position of the International Space Station |
+| ⭐2800 | [Gitnuro](https://github.com/JetpackDuba/Gitnuro) | Git client |
+| ⭐1200 | [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) | Music player and explorer |
+
+<br>
 
 ### Plugins
-  - [Compose Hot Reload](https://github.com/JetBrains/compose-hot-reload): Iterate on your Compose UIs faster
-  - [Compose EXE Manifest](https://github.com/mahozad/compose-exe-manifest): Embed a manifest in the app exe file on Windows
-  - [Vlc Setup](https://github.com/mahozad/vlc-setup): Embed VLC for vlcj
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐1400 | [Compose Hot Reload](https://github.com/JetBrains/compose-hot-reload) | Iterate on your Compose UIs faster |
+| ⭐10   | [Compose EXE Manifest](https://github.com/mahozad/compose-exe-manifest) | Embed a manifest in the app exe file on Windows |
+| ⭐30   | [Vlc Setup](https://github.com/mahozad/vlc-setup) | Embed VLC for vlcj |
 
 ---
 
