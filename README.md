@@ -4,9 +4,9 @@
 
 <img align="left" src="logo.svg" height="115.5" alt="CMP logo">
 
-- [Website](https://www.jetbrains.com/lp/compose-multiplatform)  
+- [Official website](https://kotlinlang.org/compose-multiplatform)  
 - [GitHub repository](https://github.com/JetBrains/compose-multiplatform)  
-- [Help and documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html)
+- [Help and documentation](https://kotlinlang.org/docs/multiplatform/compose-multiplatform.html)
 
 <br>
 
