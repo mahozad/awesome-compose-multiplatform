@@ -24,14 +24,22 @@
 
 <br>
 
-### Themes/Designs/Look and feels
-  - [Jewel](https://github.com/JetBrains/jewel/): IntelliJ New UI
-  - [Miuix](https://github.com/miuix-kotlin-multiplatform/miuix): Components with Xiaomi HyperOS design style
-  - [Compose Fluent](https://github.com/compose-fluent/compose-fluent-ui): Microsoft Fluent UI
-  - [Compose Unstyled](https://github.com/composablehorizons/compose-unstyled): The missing Design System layer for Compose UI
+### Themes | Designs | Look and feels
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐860  | [Jewel](https://github.com/JetBrains/jewel/) | IntelliJ New UI |
+| ⭐1300 | [Miuix](https://github.com/miuix-kotlin-multiplatform/miuix) | Components with Xiaomi HyperOS design style |
+| ⭐730  | [Compose Fluent](https://github.com/compose-fluent/compose-fluent-ui) | Microsoft Fluent UI |
+| ⭐1200 | [Compose Unstyled](https://github.com/composablehorizons/compose-unstyled) | The missing Design System layer for Compose UI |
+
+<br>
 
 ### Architecture
-  - [Premo](https://github.com/dmdevgo/Premo): Implements presentation layer 
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐200  | [Premo](https://github.com/dmdevgo/Premo) | Implements presentation layer |
+
+<br>
 
 ### Utilities
   - [Comshot](https://github.com/mahozad/comshot): Capture screenshot of Composables and Views
