@@ -51,6 +51,7 @@
 | ⭐360  | [Material 3 Window size class](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) | Material3 windowing layout |
 | ⭐510  | [Compose DND](https://github.com/MohamedRejeb/compose-dnd) | Drag and drop functionality |
 | ⭐940  | [MaterialKolor](https://github.com/jordond/MaterialKolor) | Dynamic Material3 color schemes from a seed color |
+| ⭐290  | [kmpalette](https://github.com/jordond/kmpalette/) | Generate a color palette from an image |
 | ⭐530  | [QRose](https://github.com/alexzhirkevich/qrose) | Styled QR code generator |
 | ⭐470  | [SVG to Compose](https://github.com/DevSrSouza/svg-to-compose) | Makes vectors cross-platform |
 | ⭐230  | [InsetsX](https://github.com/mori-atsushi/insetsx) | Unified interface for handling WindowInsets |
