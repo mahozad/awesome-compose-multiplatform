@@ -1,4 +1,8 @@
-<img align="left" src="logo.svg" height="116" alt="Logo">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<br>
+
+<img align="left" src="logo.svg" height="115.5" alt="CMP logo">
 
 - [Website](https://www.jetbrains.com/lp/compose-multiplatform)  
 - [GitHub repository](https://github.com/JetBrains/compose-multiplatform)  
