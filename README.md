@@ -34,13 +34,6 @@
 
 <br>
 
-### Architecture
-| Stars   | Name  | Description |
-| ------- | ----- | ----------- |
-| ⭐200  | [Premo](https://github.com/dmdevgo/Premo) | Implements presentation layer |
-
-<br>
-
 ### Utilities
 | Stars   | Name  | Description |
 | ------- | ----- | ----------- |
@@ -83,7 +76,14 @@
 | ⭐10   | [Compose EXE Manifest](https://github.com/mahozad/compose-exe-manifest) | Embed a manifest in the app exe file on Windows |
 | ⭐30   | [Vlc Setup](https://github.com/mahozad/vlc-setup) | Embed VLC for vlcj |
 
----
+<br>
+
+### Architecture
+| Stars   | Name  | Description |
+| ------- | ----- | ----------- |
+| ⭐200  | [Premo](https://github.com/dmdevgo/Premo) | Implements presentation layer |
+
+<br>
 
 ### Related awesome lists
   - https://github.com/terrakok/kmp-awesome
