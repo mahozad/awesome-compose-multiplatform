@@ -55,6 +55,7 @@
 | ⭐1400 | [MOKO resources](https://github.com/icerockdev/moko-resources) | Common resources |
 | ⭐560  | [Compose Settings](https://github.com/alorma/Compose-Settings) | Common settings |
 | ⭐4    | [KMPMedia](https://github.com/SolidKeyAB/kmpmedia) | Media Processing |
+| ⭐0    | [Autograph](https://github.com/uny/autograph) | Auto-tracked screens, impressions and clicks for analytics,<br>with a dedup/ordering event envelope |
 
 <br>
 
