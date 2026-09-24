@@ -21,6 +21,7 @@
 | ⭐360  | [Compose Sonner](https://github.com/dokar3/compose-sonner) | Opinionated toast |
 | ⭐660  | [ZoomImage](https://github.com/panpf/zoomimage) | Zooming and interacting with images |
 | ⭐40   | [Typist-CMP](https://github.com/zeeshanali-k/Typist-CMP) | Animated text typing |
+| ⭐1    | [kmp-webview](https://github.com/HarlonWang/kmp-webview) | WebView with built-in TopAppBar, bottom navigation, JS bridge and file/camera support |
 
 <br>
 
@@ -67,6 +68,7 @@
 | ⭐3400 | [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) | List of people in space and the position of the International Space Station |
 | ⭐2800 | [Gitnuro](https://github.com/JetpackDuba/Gitnuro) | Git client |
 | ⭐1200 | [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) | Music player and explorer |
+| ⭐260  | [TrendingAI](https://github.com/HarlonWang/TrendingAI) | Tech trends from GitHub Trending, Hacker News and Product Hunt, picked and summarized by AI |
 
 <br>
 
