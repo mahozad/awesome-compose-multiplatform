@@ -22,6 +22,7 @@
 | ⭐660  | [ZoomImage](https://github.com/panpf/zoomimage) | Zooming and interacting with images |
 | ⭐40   | [Typist-CMP](https://github.com/zeeshanali-k/Typist-CMP) | Animated text typing |
 | ⭐1    | [kmp-webview](https://github.com/HarlonWang/kmp-webview) | WebView with built-in TopAppBar, bottom navigation, JS bridge and file/camera support |
+| ⭐0   | [Stipple](https://github.com/jantursky/stipple) | Dithered UI: a dither engine, modifiers and ready-made components |
 
 <br>
 
