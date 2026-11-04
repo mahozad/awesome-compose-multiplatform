@@ -49,6 +49,7 @@
 | ⭐290  | [kmpalette](https://github.com/jordond/kmpalette/) | Generate a color palette from an image |
 | ⭐530  | [QRose](https://github.com/alexzhirkevich/qrose) | Styled QR code generator |
 | ⭐470  | [SVG to Compose](https://github.com/DevSrSouza/svg-to-compose) | Makes vectors cross-platform |
+| ⭐6    | [mdi-icons](https://github.com/TimoPtr/mdi-icons) | Full Material Design Icons (MDI) catalog as ImageVectors |
 | ⭐230  | [InsetsX](https://github.com/mori-atsushi/insetsx) | Unified interface for handling WindowInsets |
 | ⭐240  | [Drag Select Compose](https://github.com/jordond/drag-select-compose) | Google Photos-style multi-selection |
 | ⭐300  | [Kottie](https://github.com/ismai117/kottie) | Render After Effects animations |
