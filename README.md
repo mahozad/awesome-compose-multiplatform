@@ -59,6 +59,7 @@
 | ⭐560  | [Compose Settings](https://github.com/alorma/Compose-Settings) | Common settings |
 | ⭐4    | [KMPMedia](https://github.com/SolidKeyAB/kmpmedia) | Media Processing |
 | ⭐0    | [Autograph](https://github.com/uny/autograph) | Auto-tracked screens, impressions and clicks for analytics,<br>with a dedup/ordering event envelope |
+| ⭐0    | [StackAudit](https://github.com/r1b2ns/stack-audit) | Debug inspector for HTTP, WebSocket, storage, SQL and analytics, with secrets masked on the device |
 
 <br>
 
